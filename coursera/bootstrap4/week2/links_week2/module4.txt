@@ -1,0 +1,3 @@
+BS Image Classes : https://getbootstrap.com/docs/4.0/content/images/
+
+BS Media Object Classes : https://getbootstrap.com/docs/4.0/layout/media-object/

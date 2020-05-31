@@ -1,0 +1,95 @@
+https://github.com/johnpapa/lite-server
+
+Git site http://git-scm.com.
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+https://git-scm.com/docs
+https://www.atlassian.com/git/tutorials
+
+Additional Resources (Node.js and NPM)
+https://nodejs.org/en/
+https://www.npmjs.com/
+https://nodejs.org/api/
+https://docs.npmjs.com/
+https://github.com/johnpapa/lite-server
+
+Introduction to Bootstrap
+https://getbootstrap.com/docs/4.0/migration/
+
+Bootstrap Official Resources
+https://getbootstrap.com/
+https://getbootstrap.com/docs/4.0/content/typography/
+https://getbootstrap.com/docs/4.0/migration/
+
+Front-end Web UI Frameworks
+https://www.sitepoint.com/most-popular-frontend-frameworks-compared/
+https://www.keycdn.com/blog/frontend-frameworks
+
+Bootstrap Grid
+https://getbootstrap.com/docs/4.0/layout/grid/
+https://tutorialzine.com/2016/11/boostrap-4-regular-vs-flex-grid
+
+Official Bootstrap Resources
+https://getbootstrap.com/docs/4.0/components/navbar/
+https://getbootstrap.com/docs/4.0/components/breadcrumb/
+
+Icon Fonts
+https://fontawesome.com/?from=io
+https://fontawesome.com/start
+
+Buttons
+https://getbootstrap.com/docs/4.0/components/buttons/
+https://getbootstrap.com/docs/4.0/components/button-group/
+https://getbootstrap.com/docs/4.0/components/forms/
+https://getbootstrap.com/docs/4.0/components/buttons/#checkbox-and-radio-buttons
+
+Table and Card
+https://getbootstrap.com/docs/4.0/content/tables/
+https://getbootstrap.com/docs/4.0/components/card/
+https://getbootstrap.com/docs/4.0/content/typography/#blockquotes
+
+Images and Media
+https://getbootstrap.com/docs/4.0/content/images/
+https://getbootstrap.com/docs/4.0/layout/media-object/
+
+Badges,Alert and Progressbar
+https://getbootstrap.com/docs/4.0/components/badge/
+https://getbootstrap.com/docs/4.0/components/alerts/
+https://getbootstrap.com/docs/4.0/components/progress/
+
+Bootstrap Javascript
+https://getbootstrap.com/docs/4.0/getting-started/javascript/
+https://getbootstrap.com/docs/4.0/getting-started/javascript/#data-attributes
+https://getbootstrap.com/docs/4.0/getting-started/javascript/#programmatic-api
+
+Tabs,Pill and Tabbed Navigation
+https://getbootstrap.com/docs/4.0/components/navs/
+https://getbootstrap.com/docs/4.0/components/navs/#tabs
+https://getbootstrap.com/docs/4.0/components/navs/#pills
+https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior
+
+Accordion
+https://getbootstrap.com/docs/4.0/components/collapse/
+
+Tooltips,popover and Modals
+https://getbootstrap.com/docs/4.0/components/tooltips/
+https://getbootstrap.com/docs/4.0/components/popovers/
+https://getbootstrap.com/docs/4.0/components/modal/
+https://getbootstrap.com/docs/4.0/components/modal/#methods
+
+carousel
+https://getbootstrap.com/docs/4.0/components/carousel/
+
+Bootstrap carousel method
+https://getbootstrap.com/docs/4.0/components/carousel/#methods
+
+Jquery
+https://jquery.com/
+https://www.w3schools.com/jquery/default.asp
+
+Less and Sass Resources
+http://lesscss.org/
+https://sass-lang.com/guide
+https://scotch.io/tutorials/getting-started-with-less
+https://scotch.io/tutorials/getting-started-with-sass
+https://www.npmjs.com/package/less
+https://www.npmjs.com/package/node-sass

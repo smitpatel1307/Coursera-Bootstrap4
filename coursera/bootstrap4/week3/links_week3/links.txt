@@ -1,0 +1,43 @@
+BS and JavaScript : https://getbootstrap.com/docs/4.0/getting-started/javascript/
+
+BS JS Data Attributes : https://getbootstrap.com/docs/4.0/getting-started/javascript/#data-attributes
+
+BS Programmatic API : https://getbootstrap.com/docs/4.0/getting-started/javascript/#programmatic-api
+
+BS Navs : https://getbootstrap.com/docs/4.0/components/navs/
+
+BS Tabs : https://getbootstrap.com/docs/4.0/components/navs/#tabs
+
+BS Pills : https://getbootstrap.com/docs/4.0/components/navs/#pills
+
+BS Tabs JS Behavior : https://getbootstrap.com/docs/4.0/components/navs/#javascript-behavior
+
+BS Collapse : https://getbootstrap.com/docs/4.0/components/collapse/
+
+BS Accordion Example : https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example
+
+BS Tooltips : https://getbootstrap.com/docs/4.0/components/tooltips/
+
+BS Popovers : https://getbootstrap.com/docs/4.0/components/popovers/
+
+BS Modals : https://getbootstrap.com/docs/4.0/components/modal/
+
+BS Carousel : https://getbootstrap.com/docs/4.0/components/carousel/
+
+BS Carousel Methods : https://getbootstrap.com/docs/4.0/components/carousel/#methods
+
+JQuery : https://jquery.com/
+
+W3Schools Jquery : https://www.w3schools.com/jquery/default.asp
+
+Less Getting Strarted : http://lesscss.org/
+
+Sass Basics : https://sass-lang.com/guide
+
+Getting Started With Less Tutorial : https://scotch.io/tutorials/getting-started-with-less
+
+Getting Started With Sass Tutorial : https://scotch.io/tutorials/getting-started-with-sass
+
+Less NPM Package : https://www.npmjs.com/package/less
+
+Node-sass NPM Package : https://www.npmjs.com/package/node-sass

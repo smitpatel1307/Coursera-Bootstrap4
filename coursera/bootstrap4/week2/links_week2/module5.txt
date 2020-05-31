@@ -1,0 +1,5 @@
+BS Badge : https://getbootstrap.com/docs/4.0/components/badge/
+
+BS Alerts : https://getbootstrap.com/docs/4.0/components/alerts/
+
+BS Progress : https://getbootstrap.com/docs/4.0/components/progress/

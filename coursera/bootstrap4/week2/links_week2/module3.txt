@@ -1,0 +1,5 @@
+BS Tables : https://getbootstrap.com/docs/4.0/content/tables/
+
+BS Card : https://getbootstrap.com/docs/4.0/components/card/
+
+BS Blockquote : https://getbootstrap.com/docs/4.0/content/typography/#blockquotes
